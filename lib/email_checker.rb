@@ -22,7 +22,7 @@ module EmailChecker
 
     domain = Mail::Address.new(email).domain
 
-    positive_response_codes = [250, 251]
+    positive_response_codes = [220, 250, 251]
     negative_response_codes = [252, 421, 450, 451, 452, 500, 501, 502, 503, 504, 521, 530, 550, 551, 552, 553, 554]
 
     pop = Net::Telnet::new("Host" => server,

@@ -49,7 +49,7 @@
       <file leaf-file-name="email_checker.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/email_checker.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.88661414">
+            <state line="38" column="54" selection-start="1274" selection-end="1324" vertical-scroll-proportion="0.592126">
               <folding />
             </state>
           </provider>
@@ -302,7 +302,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/email_checker.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.88661414">
+        <state line="38" column="54" selection-start="1274" selection-end="1324" vertical-scroll-proportion="0.592126">
           <folding />
         </state>
       </provider>
