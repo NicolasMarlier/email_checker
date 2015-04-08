@@ -6,6 +6,18 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/email_checker.gemspec" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505128429" ignored="false" />
     <file path="/email_checker.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505627723" ignored="false" />
+    <file path="$PROJECT_DIR$/../growthhack/app/controllers/application_controller.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505866256" ignored="false" />
+    <file path="/application_controller.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505858875" ignored="false" />
+    <file path="$PROJECT_DIR$/../growthhack/Gemfile" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505956644" ignored="false" />
+    <file path="/Gemfile" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505956644" ignored="false" />
+    <file path="$PROJECT_DIR$/../growthhack/config/routes.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428507746398" ignored="false" />
+    <file path="/routes.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428507396592" ignored="false" />
+    <file path="$PROJECT_DIR$/../growthhack/app/controllers/emails_controller.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428507600385" ignored="false" />
+    <file path="/emails_controller.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428507556084" ignored="false" />
+    <file path="$PROJECT_DIR$/../growthhack/app/models/contact.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428508557116" ignored="false" />
+    <file path="/contact.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428508555788" ignored="false" />
+    <file path="/company.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428508463011" ignored="false" />
+    <file path="$PROJECT_DIR$/../growthhack/app/models/company.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428508469434" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +49,7 @@
       <file leaf-file-name="email_checker.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/email_checker.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="22" selection-start="456" selection-end="456" vertical-scroll-proportion="0.41846153">
+            <state line="49" column="0" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.88661414">
               <folding />
             </state>
           </provider>
@@ -290,7 +302,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/email_checker.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="456" selection-end="456" vertical-scroll-proportion="0.41846153">
+        <state line="49" column="0" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.88661414">
           <folding />
         </state>
       </provider>
