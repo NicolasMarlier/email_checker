@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'email_checker'
-  s.version     = '0.1'
+  s.version     = '0.1.1'
   s.date        = '2015-04-08'
   s.summary     = "Email Checker"
   s.description = "A gem to check address emails"

@@ -4,8 +4,8 @@
     <list default="true" id="9e527138-446c-4d5e-84ad-71767c315571" name="Default" comment="" />
     <ignored path="email_checker.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/email_checker.gemspec" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505128429" ignored="false" />
-    <file path="/email_checker.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505627723" ignored="false" />
+    <file path="/email_checker.gemspec" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1429008075393" ignored="false" />
+    <file path="/email_checker.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1429007141424" ignored="false" />
     <file path="$PROJECT_DIR$/../growthhack/app/controllers/application_controller.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505866256" ignored="false" />
     <file path="/application_controller.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505858875" ignored="false" />
     <file path="$PROJECT_DIR$/../growthhack/Gemfile" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428505956644" ignored="false" />
@@ -14,8 +14,8 @@
     <file path="/routes.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428507396592" ignored="false" />
     <file path="$PROJECT_DIR$/../growthhack/app/controllers/emails_controller.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428507600385" ignored="false" />
     <file path="/emails_controller.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428507556084" ignored="false" />
-    <file path="$PROJECT_DIR$/../growthhack/app/models/contact.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428508557116" ignored="false" />
-    <file path="/contact.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428508555788" ignored="false" />
+    <file path="$PROJECT_DIR$/../growthhack/app/models/contact.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428528928888" ignored="false" />
+    <file path="/contact.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428528919076" ignored="false" />
     <file path="/company.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428508463011" ignored="false" />
     <file path="$PROJECT_DIR$/../growthhack/app/models/company.rb" changelist="9e527138-446c-4d5e-84ad-71767c315571" time="1428508469434" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,19 +37,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="email_checker.gemspec" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="email_checker.gemspec" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/email_checker.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="2" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
+            <state line="2" column="24" selection-start="88" selection-end="88" vertical-scroll-proportion="0.046296295">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="email_checker.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="email_checker.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/email_checker.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="54" selection-start="1274" selection-end="1324" vertical-scroll-proportion="0.592126">
+            <state line="20" column="25" selection-start="539" selection-end="551" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,8 +65,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/email_checker.gemspec" />
         <option value="$PROJECT_DIR$/lib/email_checker.rb" />
+        <option value="$PROJECT_DIR$/email_checker.gemspec" />
       </list>
     </option>
   </component>
@@ -293,16 +293,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/email_checker.gemspec">
+    <entry file="file://$PROJECT_DIR$/lib/email_checker.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="2" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
+        <state line="20" column="25" selection-start="539" selection-end="551" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/email_checker.rb">
+    <entry file="file://$PROJECT_DIR$/email_checker.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="54" selection-start="1274" selection-end="1324" vertical-scroll-proportion="0.592126">
+        <state line="2" column="24" selection-start="88" selection-end="88" vertical-scroll-proportion="0.046296295">
           <folding />
         </state>
       </provider>
